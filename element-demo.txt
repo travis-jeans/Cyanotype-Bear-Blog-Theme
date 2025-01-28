@@ -1,0 +1,152 @@
+Document Title: Element Demos
+
+skip to content
+
+
+Blog Title
+
+- LINK TEXT
+- LINK TEXT
+- LINK TEXT
+- LINK TEXT
+
+
+Element demos
+
+This page has HTML elements and some Bear Blog classes.
+
+
+Bear Blog blog-posts class
+
+- Post title example
+- Post title example
+- Post title example
+- Post title example
+
+
+Inline Styles
+
+This is a test of highlighting text, strong, and emphasis. Inserted and deleted text. Marked text. Subscript and superscript and a variable.
+
+Lists
+
+
+Unordered List
+
+- item 1
+- item 2
+- item 3
+
+
+Ordered List
+
+1. item 1
+2. item 2
+3. item 3
+
+
+Descriptive List
+
+tag
+value
+value
+tag
+value
+
+
+Form elements
+
+Email
+User id (read only)
+Random disabled input
+About me
+Choose a radio:
+John Doe
+Jane Doe
+Johnny Doe
+
+
+Checkboxes
+
+Unchecked Remember me
+Code
+
+Below is some code, you can copy it with Ctrl-C. Did you know, alert(1) can show an alert in JavaScript!
+
+// This logs a message to the console
+console.log('Hello, world!')
+Other
+
+Here's a horizontal rule and image.
+
+This is a BUTTON or a more formal OK
+
+This is a blockquote
+
+The preformatted text below has two ASCII images of rabbits beside example text inside a decorated box.
+
+Good old preformatted text, no code at all
+
+(preformatted text removed from .txt document)
+
+And here's a nicely marked up table!
+
+Name Quantity Price
+Godzilla 2 $299.99
+Mozilla 10 $100,000.00
+Quesadilla 1 $2.22
+
+
+Typography
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum hendrerit velit, quis ullamcorper sem congue ac. Quisque id magna rhoncus, sodales massa vel, vestibulum elit. Duis ornare accumsan egestas. Proin maximus lacus interdum leo molestie convallis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut iaculis risus eu felis feugiat, eu mollis neque elementum. Donec interdum, nisl id dignissim iaculis, felis dui aliquet dui, non fermentum velit lectus ac quam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. This is strong, this is normal, this is just bold, and this is emphasized! And heck, here's a link.
+
+"The HTML blockquote Element (or HTML Block Quotation Element) indicates that the enclosed text is an extended quotation. Usually, this is rendered visually by indentation (see Notes for how to change it). A URL for the source of the quotation may be given using the cite attribute, while a text representation of the source can be given using the <cite> cite element."
+
+MDN, "The Block Quotation element"
+
+- Unordered list item 1
+- Unordered list item 2
+- Unordered list item 3
+
+1. Ordered list item 1
+2. Ordered list item 2
+3. Ordered list item 3
+
+Links with mailto:, tel:, sms: addresses might be styled...
+
+john.doe@example.com
+778-330-2389
+666-666-6666
+
+
+Heading 1
+
+A paragraph <p> of lorem ipsum after the heading. Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+
+Heading 2
+
+A paragraph <p> of lorem ipsum after the heading. Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+
+Heading 3
+
+A paragraph <p> of lorem ipsum after the heading. Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+
+Heading 4
+
+A paragraph <p> of lorem ipsum after the heading. Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+
+Heading 5
+
+A paragraph <p> of lorem ipsum after the heading. Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+
+Heading 6
+
+A paragraph <p> of lorem ipsum after the heading. Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+Footer text
