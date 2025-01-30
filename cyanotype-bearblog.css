@@ -97,7 +97,7 @@ body {
 	    line-height: 1.8;
 }
 
-.post a, .page a, main a {
+.post main a, .page main a, main a {
     font-weight: 500;
 }
 
@@ -408,6 +408,13 @@ nav a {
     margin-right: 8px;
     font-weight: 800;
     text-transform: uppercase;
+    text-decoration: none;
+    text-shadow: none;
+}
+
+.post nav a:hover {
+    text-decoration: none;
+    text-shadow: none;
 }
 
 nav a:last-child {
@@ -1043,8 +1050,8 @@ a img {
 }
 
 /* changed custom classes to Bear Blog ones (e.g. .entry-content a) */
-.post a,
-.post a:hover,
+main .post a,
+.post main a:hover,
 a.title:hover {
 	background-image: -webkit-linear-gradient(left, currentColor 0%, currentColor 100%);
 	background-image: linear-gradient(to right, currentColor 0%, currentColor 100%);
@@ -1054,13 +1061,6 @@ a.title:hover {
 	background-size: 100% 2px;
 	text-decoration: none;
 	text-shadow: 2px 0 0 var(--focus-colour), -2px 0 0 var(--focus-colour);
-}
-
-/* remove styles from navigation bar */
-.post nav a,
-.post nav a:hover {
-    text-decoration: none;
-    text-shadow: none;
 }
 
 /* changed classes with focus to Bear Blog ones */
