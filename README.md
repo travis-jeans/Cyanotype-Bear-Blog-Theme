@@ -30,19 +30,26 @@ The theme is in alpha. Latest changes are in the [Changelog](./CHANGELOG.md).
 
 ### Screenshots
 
-For details about the contents of the below screenshots, you can view the [HTML file](./element-demo.html) or the [plain text version](./element-demo.txt) of the HTML content without HTML markup.
+For text alternatives of the following screenshots, you can study the [HTML file](./element-demo.html) or the read the page content minus HTML markup in a [plain text version](./element-demo.txt). Descriptions of main elements are below.
 
 #### Dark mode
 
-Like Cyanotype the navigation menu items are in boxes which will invert upon hover or focus. The colour is a dark blue background with white foreground.
+Like Cyanotype the navigation menu items are in outlined boxes which will invert foreground and background colours upon hover or focus. The background colour is dark blue with a white foreground.
+
+The blog title is large and centered on the screen and the contents of the document are in an outlined border. A divider separates the blog title and navigation from the main content.
 
 ![navigation](./img/dark-nav.jpg)
 
-Email and textarea fields span the width of the main content area. Radio buttons and checkboxes have tap areas at least 44px high.
+Email and textarea fields span the width of the main content area. Radio buttons and checkboxes have large tap areas which leaves white space between each option. Placeholder text is in grey inside the input fields and labels are bold.
 
 ![forms](./img/dark-form.jpg)
 
-A full size screenshot with more elements is available at [Dark (fullsize)](./img/dark-fullsize.jpg).
+A full size screenshot with more elements is available at [Dark (fullsize)](./img/dark-fullsize.jpg). Other notable features of the Cyanotype theme are:
+
+- code snippets which have an inverted foreground and background
+- large inter-paragraph spacing
+- buttons in bold font and uppercase characters with thick square outlines which invert upon focus or hover
+- large blockquotes which expand beyond and erase the borders of the main content area
 
 #### Light mode
 
