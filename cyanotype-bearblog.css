@@ -1314,7 +1314,7 @@ header img {
  */
 
 
-.post nav h1 {
+nav h1 {
 	clear: none;
 	font-size: 26px;
 	font-size: 1.625rem;
@@ -1405,19 +1405,19 @@ header img {
 	width: 50%;
 }
 
-.post footer {
+footer {
 	border-top: 2px solid currentColor;
 	margin-top: 24px;
 	padding-top: 24px;
 }
 
 
-.post header {
+header {
 	border-bottom: 2px solid currentColor;
 	padding: 7.6923% 0;
 }
 
-.post header .title {
+header .title {
 	font-size: 26px;
 	font-size: 1.625rem;
 	line-height: 1.153846154;
@@ -1661,13 +1661,6 @@ address {
 
 	nav ul ul {
 		margin-left: 16px;
-	}
-
-	.post header a.title
-	.page header a.title {
-		font-size: 41px;
-		font-size: 2.5625rem;
-		line-height: 1.170731707;
 	}
 
 	h1,
