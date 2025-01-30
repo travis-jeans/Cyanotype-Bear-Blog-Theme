@@ -6,7 +6,7 @@ Accessibility considerations were made when developing this theme.
 
 This document is to explain the purpose of the theme and how the classes and CSS selectors work.
 
-This repository is maintained on [Codeberg (Cyanotype-Bear-Blog-Theme)](Cyanotype-Bear-Blog-Theme) with a mirror on [Github (Cyanotype-Bear-Blog-Theme)](https://github.com/travis-jeans/Cyanotype-Bear-Blog-Theme) for accessibility reasons. For more about this see [For Contributors](#for-contributors).
+This repository is maintained on [Codeberg (Cyanotype-Bear-Blog-Theme)](https://codeberg.org/travis-jeans/Cyanotype-Bear-Blog-Theme/) with a mirror on [Github (Cyanotype-Bear-Blog-Theme)](https://github.com/travis-jeans/Cyanotype-Bear-Blog-Theme) for accessibility reasons. For more about this see [For Contributors](#for-contributors).
 
 The theme is in alpha. Latest changes are in the [Changelog](./CHANGELOG.md).
 
