@@ -6,7 +6,9 @@ Accessibility considerations were made when developing this theme.
 
 This document is to explain the purpose of the theme and how the classes and CSS selectors work.
 
-The theme is in alpha.
+This repository is maintained on Codeberg with a mirror on Github for accessibility reasons. For more about this see [For Contributors](#for-contributors).
+
+The theme is in alpha. Latest changes are in the [Changelog](./CHANGELOG.md).
 
 ## Contents
 1. [About](#about)
@@ -59,10 +61,10 @@ A full size screenshot with more elements is available at [Light (full size)](./
 
 - Verdana font
 - Large font
-- Large buttons (min 44px height)
-- Large inputs (min 44px height)
-- High contrast text (including placeholders)
-- Visible dotted outline on disabled text inputs
+- Large buttons and input fields (WCAG [Target Size (Level AAA)](https://www.w3.org/WAI/WCAG21/Understanding/target-size))
+- High contrast text (WCAG level AAA [Contrast (Enhanced)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced))
+- Sufficient contrast for placeholder text (WCAG [Contrast (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html))
+- High contrast dotted outline on disabled text inputs
 - Light and dark mode
 - Skip link support
 - Compatible with static site generators
@@ -237,5 +239,7 @@ The `<footer>` tag should be outside and not inside the `<main>` element. Links 
 The footer currently supports a copyright statement.
 
 ## For Contributors
+
+The repository is being maintained on Codeberg primarily as the open source platform is more suitable for copyleft licenses (for reference see [Please don't upload my code to Github](https://nogithub.codeberg.page/). A Github mirror is provided for accessibility reasons.
 
 Any feedback should be posted in the Codeberg Issues section or emailed to Travis Jeans (hello@scopefilter.net).
