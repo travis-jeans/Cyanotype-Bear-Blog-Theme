@@ -260,4 +260,4 @@ The footer currently supports a plain text like a copyright statement.
 
 The repository is being maintained on Codeberg primarily as the open source platform is more suitable for copyleft licenses (for reference see [Please don't upload my code to Github](https://nogithub.codeberg.page/). A Github mirror is provided for accessibility reasons.
 
-Any feedback should be posted in the Codeberg Issues section or emailed to Travis Jeans (hello@scopefilter.net).
+Any feedback should be posted in the Codeberg Issues section or emailed to Travis Jeans (hello@futurehorizondesign.net.au).
