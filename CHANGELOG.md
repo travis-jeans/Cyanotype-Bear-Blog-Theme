@@ -2,6 +2,10 @@
 
 Latest versions of Cyanotype Bear Blog Theme.
 
+## 2026-11-20
+
+- Updated the email address on the README
+
 ## 2025-01-30
 
 ### 1.0.0
